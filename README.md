@@ -69,7 +69,7 @@ The dataset contains invoice records, product details, customer IDs, quantities,
 
 > To use the full dataset with the Tableau workbook, download the processed file from Google Drive
 > and reconnect the data source in `tableau/Cohort_Retention_Dashboard.twb`.
-
+---
 ## 🛠️ Technical Stack
 
 | Tool | Role |
