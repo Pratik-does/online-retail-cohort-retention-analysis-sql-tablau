@@ -57,6 +57,19 @@ The dataset contains invoice records, product details, customer IDs, quantities,
 
 ---
 
+## 📂 Dataset Access
+
+> ⚠️ Files in this repository contain **sample data only** due to GitHub's file size limits.
+> Full datasets are hosted on Google Drive and are publicly accessible.
+
+| Dataset | Description | Size | Link |
+|---|---|---|---|
+| **Raw Data** | Original unprocessed retail transactions | Full dataset | [📁 View on Google Drive](https://drive.google.com/file/d/1I5nurlLCS8ndkpjueLPPIvfzLARI9zBZ/view?usp=drive_link) |
+| **Processed Data** | Cleaned, cohort-indexed, retention-ready CSV | Full dataset | [📁 View on Google Drive](https://drive.google.com/file/d/1Hrdk4Xxwv1e1LzIZUKYd0XyfATCQAJnU/view?usp=drive_link) |
+
+> To use the full dataset with the Tableau workbook, download the processed file from Google Drive
+> and reconnect the data source in `tableau/Cohort_Retention_Dashboard.twb`.
+
 ## 🛠️ Technical Stack
 
 | Tool | Role |
